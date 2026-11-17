@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this implementation, please cite the WSDM 2027 paper."
+type: software
+title: "BRIFi: Client-Calibrated Online Poisoned-Sample Mining for Backdoor-Resilient Federated Learning"
+authors:
+  - family-names: Ma
+    given-names: Yitong
+    orcid: "https://orcid.org/0009-0008-8431-4985"
+  - family-names: Yan
+    given-names: Gang
+    orcid: "https://orcid.org/0000-0002-7734-1589"
+repository-code: "https://github.com/ytma-phoenix/Brifi"
+preferred-citation:
+  type: conference-paper
+  title: "BRIFi: Client-Calibrated Online Poisoned-Sample Mining for Backdoor-Resilient Federated Learning"
+  authors:
+    - family-names: Ma
+      given-names: Yitong
+    - family-names: Yan
+      given-names: Gang
+  year: 2027
+  conference:
+    name: "The Twentieth ACM International Conference on Web Search and Data Mining (WSDM 2027)"
+  doi: "10.1145/3862322.3863472"
